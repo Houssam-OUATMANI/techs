@@ -1,0 +1,124 @@
+{
+  "langages": [
+    {
+      "nom": "JavaScript",
+      "frameworks": ["React", "Vue.js", "Angular", "Svelte", "Next.js", "Nuxt.js", "Express.js", "NestJS"]
+    },
+    {
+      "nom": "TypeScript",
+      "frameworks": ["Angular", "NestJS", "Next.js", "Nuxt.js", "React", "Vue.js", "SvelteKit"]
+    },
+    {
+      "nom": "Python",
+      "frameworks": ["Django", "Flask", "FastAPI", "Tornado", "Pyramid", "Bottle"]
+    },
+    {
+      "nom": "Java",
+      "frameworks": ["Spring", "Spring Boot", "Quarkus", "Micronaut", "Jakarta EE", "Play Framework"]
+    },
+    {
+      "nom": "C#",
+      "frameworks": [".NET", "ASP.NET Core", "Blazor", "Entity Framework Core", "Maui"]
+    },
+    {
+      "nom": "C++",
+      "frameworks": ["Qt", "Boost", "POCO", "JUCE", "wxWidgets"]
+    },
+    {
+      "nom": "C",
+      "frameworks": ["GTK", "GLib", "SDL", "GObject"]
+    },
+    {
+      "nom": "PHP",
+      "frameworks": ["Laravel", "Symfony", "CodeIgniter", "CakePHP", "Yii", "Slim"]
+    },
+    {
+      "nom": "Ruby",
+      "frameworks": ["Ruby on Rails", "Sinatra", "Hanami", "Roda"]
+    },
+    {
+      "nom": "Go",
+      "frameworks": ["Gin", "Echo", "Fiber", "Beego", "Revel", "Chi"]
+    },
+    {
+      "nom": "Rust",
+      "frameworks": ["Actix Web", "Axum", "Rocket", "Warp", "Tauri", "Leptos"]
+    },
+    {
+      "nom": "Kotlin",
+      "frameworks": ["Ktor", "Spring Boot", "Compose Multiplatform", "Android SDK"]
+    },
+    {
+      "nom": "Swift",
+      "frameworks": ["SwiftUI", "Vapor", "UIKit", "Foundation"]
+    },
+    {
+      "nom": "Dart",
+      "frameworks": ["Flutter", "Shelf", "Serverpod"]
+    },
+    {
+      "nom": "Scala",
+      "frameworks": ["Play Framework", "Akka", "ZIO", "http4s", "Cats Effect"]
+    },
+    {
+      "nom": "Elixir",
+      "frameworks": ["Phoenix", "Plug", "LiveView", "Ash Framework"]
+    },
+    {
+      "nom": "Erlang",
+      "frameworks": ["OTP", "Cowboy", "Nitrogen"]
+    },
+    {
+      "nom": "Haskell",
+      "frameworks": ["Yesod", "Servant", "Scotty", "IHP"]
+    },
+    {
+      "nom": "Lua",
+      "frameworks": ["LÖVE", "OpenResty", "Defold"]
+    },
+    {
+      "nom": "R",
+      "frameworks": ["Shiny", "Plumber", "Golem"]
+    },
+    {
+      "nom": "Julia",
+      "frameworks": ["Genie", "Oxygen", "HTTP.jl"]
+    },
+    {
+      "nom": "D",
+      "frameworks": ["Vibe.d", "Hunt", "DlangUI"]
+    },
+    {
+      "nom": "Dart",
+      "frameworks": ["Flutter", "Shelf", "Serverpod"]
+    },
+    {
+      "nom": "Objective-C",
+      "frameworks": ["Cocoa", "Cocoa Touch", "GNUstep"]
+    },
+    {
+      "nom": "Visual Basic",
+      "frameworks": [".NET", "ASP.NET"]
+    },
+    {
+      "nom": "Perl",
+      "frameworks": ["Mojolicious", "Catalyst", "Dancer2"]
+    },
+    {
+      "nom": "Groovy",
+      "frameworks": ["Grails", "Ratpack", "Micronaut"]
+    },
+    {
+      "nom": "Clojure",
+      "frameworks": ["Ring", "Compojure", "Luminus", "Pedestal"]
+    },
+    {
+      "nom": "F#",
+      "frameworks": [".NET", "ASP.NET Core", "Giraffe", "Saturn"]
+    },
+    {
+      "nom": "Solidity",
+      "frameworks": ["Hardhat", "Foundry", "Truffle"]
+    }
+  ]
+}
